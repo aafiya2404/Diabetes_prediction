@@ -1,4 +1,6 @@
 # Diabetes_prediction
+# Objective
+To develop an accurate and reliable predictive model for assessing the risk of diabetes in individuals.
 # Techniques Used:
 Data Cleaning
 Data Visualization
