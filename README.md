@@ -4,17 +4,17 @@
 To develop an accurate and reliable predictive model for assessing the risk of diabetes in individuals.
 
 # Techniques Used:
-Data Cleaning.
-Data Visualization.
-Machine Learning Modeling.
+1)Data Cleaning.
+2)Data Visualization.
+3)Machine Learning Modeling.
 
 # Algorithms Used:
-Logistic Regression.
-Random Forest Classifier.
-Naive Bayes.
-Gradient Boosting.
+1)Logistic Regression.
+2)Random Forest Classifier.
+3)Naive Bayes.
+4)Gradient Boosting.
 
 # Model Evaluation Methods Used:
-Accuracy Score.
-Classification Report.
-Confusion Matrix.
+1)Accuracy Score.
+2)Classification Report.
+3)Confusion Matrix.
